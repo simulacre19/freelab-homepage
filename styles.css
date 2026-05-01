@@ -329,7 +329,7 @@ section { padding-top: var(--section-y); padding-bottom: var(--section-y); }
   font-weight: 500;
   line-height: 1.05;
   letter-spacing: -0.02em;
-  max-width: 18ch;
+  max-width: 22ch;
 }
 .page-hero .subtitle {
   margin-top: 28px;
@@ -814,7 +814,7 @@ section { padding-top: var(--section-y); padding-bottom: var(--section-y); }
   font-weight: 500;
   line-height: 1.1;
   letter-spacing: -0.02em;
-  max-width: 18ch;
+  max-width: 22ch;
   margin: 0 auto;
 }
 .cta-banner p {
