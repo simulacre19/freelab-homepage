@@ -1433,3 +1433,12 @@ section { padding-top: var(--section-y); padding-bottom: var(--section-y); }
   .nav-toggle { display: block; }
   .nav-inner > a.btn-cta { display: none; }
 }
+
+/* ============================================
+   Floor Plan v2 — 영역별 색상 (도면 기반)
+============================================ */
+.floor-plan .zone-pink { fill: #F2DCD0; }
+.floor-plan .zone-yellow { fill: #F5EAC0; }
+.floor-plan .zone-gray { fill: #EBEBE5; }
+.floor-plan .zone-blue { fill: #DAE5EC; }
+.floor-plan .zone-beige { fill: #F2E0C8; }
