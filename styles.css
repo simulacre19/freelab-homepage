@@ -1442,3 +1442,11 @@ section { padding-top: var(--section-y); padding-bottom: var(--section-y); }
 .floor-plan .zone-gray { fill: #EBEBE5; }
 .floor-plan .zone-blue { fill: #DAE5EC; }
 .floor-plan .zone-beige { fill: #F2E0C8; }
+
+/* 평면도 이미지 (도면 PNG) */
+.floor-plan-img {
+  width: 100%;
+  height: auto;
+  display: block;
+  background: var(--white);
+}
